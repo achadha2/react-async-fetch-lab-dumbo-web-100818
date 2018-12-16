@@ -4,5 +4,4 @@ import App from './App';
 
 import './App.css';
 
-const element = `<div><App /></div>`;
-ReactDOM.render(element, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
