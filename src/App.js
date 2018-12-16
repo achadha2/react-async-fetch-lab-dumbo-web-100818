@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import Button from './components/Button.js'
 import Greeting from './components/Button.js'
 
